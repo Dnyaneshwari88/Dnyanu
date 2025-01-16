@@ -1,2 +1,2 @@
 # Dnyanu
-this is Dnyanu repository
+this is Dnyanu repository .
